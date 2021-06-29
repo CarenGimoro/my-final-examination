@@ -1,0 +1,4 @@
+GitHub is a free (for personal use), cloud-hosted platform for code. It works with Git on your and your colleagues' computers, serving as the origin, the source of truth for anyone working on the code.
+
+You and your collaborators upload their code to GitHub periodically, and GitHub provides tooling to help manage changes to the code over time.
+
